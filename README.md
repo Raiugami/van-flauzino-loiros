@@ -2,7 +2,7 @@
 
 Site de uma página de Van Flauzino, especialista em loiros e mechas (loiro iluminado, mechas, morena iluminada e terapia capilar), com agendamento pelo WhatsApp.
 
-- **Site publicado:** a definir (vanflauzino.imaguiar.com.br)
+- **Site publicado:** https://vanflauzino.imaguiar.com.br
 - **Instagram:** https://www.instagram.com/vanflauzino/
 
 ## Tecnologias
